@@ -1,0 +1,132 @@
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\csc.exe
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\vbc.exe
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\projetoxablau.dll.config
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\projetoxablau.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\projetoxablau.pdb
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\EntityFramework.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\EntityFramework.SqlServer.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Owin.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\System.Web.Optimization.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\System.Web.Providers.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\WebGrease.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\System.Web.Optimization.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\EntityFramework.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\EntityFramework.SqlServer.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\System.Web.Providers.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\obj\Debug\projetoxablau.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\obj\Debug\projetoxablau.dll
+C:\Users\Acer\Documents\VisualStudioFaculdade\3 Semestre\EP\projetoxablau\projetoxablau\obj\Debug\projetoxablau.pdb
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\csc.exe
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\System.Collections.Immutable.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\System.Reflection.Metadata.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\vbc.exe
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\VBCSCompiler.exe
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\roslyn\VBCSCompiler.exe.config
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\projetoxablau.dll.config
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\projetoxablau.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\projetoxablau.pdb
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Antlr3.Runtime.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\AspNet.ScriptManager.bootstrap.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\AspNet.ScriptManager.jQuery.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\EntityFramework.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\EntityFramework.SqlServer.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.Core.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Cookies.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Facebook.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Google.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.OAuth.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Twitter.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.ScriptManager.WebForms.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Web.Infrastructure.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Newtonsoft.Json.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Owin.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\System.Web.Optimization.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\System.Web.Providers.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\WebGrease.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\System.Web.Optimization.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Antlr3.Runtime.pdb
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Newtonsoft.Json.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\EntityFramework.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\EntityFramework.SqlServer.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.Core.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\System.Web.Providers.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Facebook.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Cookies.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Google.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.Twitter.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\bin\Microsoft.Owin.Security.OAuth.xml
+E:\projetoxablau1.2\projetoxablau\projetoxablau\obj\Debug\projetoxablau.csprojResolveAssemblyReference.cache
+E:\projetoxablau1.2\projetoxablau\projetoxablau\obj\Debug\projetoxablau.dll
+E:\projetoxablau1.2\projetoxablau\projetoxablau\obj\Debug\projetoxablau.pdb

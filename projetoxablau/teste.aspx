@@ -1,0 +1,672 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="teste.aspx.cs" Inherits="projetoxablau.teste" %>
+
+<!DOCTYPE html>
+
+<head runat="server">
+    
+    <title>Xablau - Index header logged user</title>
+    <!-- meta info -->
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="keywords" content="Koupon HTML5 Template" />
+    <meta name="description" content="Koupon - Premiun HTML5 Template for Coupons Website">
+    <meta name="author" content="Tsoy">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300' rel='stylesheet' type='text/css'>
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="css/boostrap.css">
+    <!-- Font Awesome styles (icons) -->
+    <link rel="stylesheet" href="css/font_awesome.css">
+    <!-- Main Template styles -->
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- IE 8 Fallback -->
+    <!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="css/ie.css" />
+<![endif]-->
+
+    <!-- Your custom styles (blank file) -->
+    <link rel="stylesheet" href="css/mystyles.css">
+
+</head>
+<body>
+    <form id="form2" runat="server">
+    <div>
+            
+    <div class="global-wrap">
+
+
+        <!-- //////////////////////////////////
+	//////////////MAIN HEADER///////////// 
+	////////////////////////////////////-->
+        <div class="top-main-area text-center">
+            <div class="container">
+                <a href="index.html" class="logo mt5">
+                    <img src="img/logo-small-dark.png" alt="Image Alternative text" title="Image Title" />
+                </a>
+            </div>
+        </div>
+        <header class="main">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="flexnav-menu-button" id="flexnav-menu-button">Menu</div>
+                        <nav>
+                            <ul class="nav nav-pills flexnav" id="flexnav" data-breakpoint="800">
+                                <li class="active"><a href="index.html">Home</a>
+                                    <ul>
+                                        <li><a href="index-shop-layout-1.html">Shop Layout</a>
+                                            <ul>
+                                                <li><a href="index-shop-layout-1.html">Layout 1</a>
+                                                </li>
+                                                <li><a href="index-shop-layout-2.html">Layout 2</a>
+                                                </li>
+                                                <li><a href="index-shop-layout-3.html">Layout 3</a>
+                                                </li>
+                                                <li><a href="index-shop-layout-4.html">Layout 4</a>
+                                                </li>
+                                                <li><a href="index-shop-layout-5.html">Layout 5</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="index-coupon-layout-1.html">Coupon Layout</a>
+                                            <ul>
+                                                <li><a href="index-coupon-layout-1.html">Layout 1</a>
+                                                </li>
+                                                <li><a href="index-coupon-layout-2.html">Layout 2</a>
+                                                </li>
+                                                <li><a href="index-coupon-layout-3.html">Layout 3</a>
+                                                </li>
+                                                <li><a href="index.html">Layout 4</a>
+                                                </li>
+                                                <li><a href="index-coupon-layout-5.html">Layout 5</a>
+                                                </li>
+                                                <li><a href="index-coupon-layout-6.html">Layout 6</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="active"><a href="index-header-layout-1.html">Headers</a>
+                                            <ul>
+                                                <li><a href="index-header-layout-1.html">Layout 1</a>
+                                                </li>
+                                                <li><a href="index-header-layout-2.html">Layout 2</a>
+                                                </li>
+                                                <li><a href="index-header-layout-3.html">Layout 3</a>
+                                                </li>
+                                                <li><a href="index-header-layout-4.html">Layout 4</a>
+                                                </li>
+                                                <li><a href="index-header-layout-5.html">Layout 5</a>
+                                                </li>
+                                                <li class="active"><a href="index-header-logged-user.html">Logged User</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="category-page-shop.html">Meus produtos</a>
+                                    <ul>
+                                        <li><a href="category-page-shop.html">Shop</a>
+                                        </li>
+                                        <li><a href="category-page-coupon.html">Coupon</a>
+                                        </li>
+                                        <li><a href="category-page-thumbnails-shop-layout-1.html">Thumbnails</a>
+                                            <ul>
+                                                <li><a href="category-page-thumbnails-shop-layout-1.html">Shop</a>
+                                                    <ul>
+                                                        <li><a href="category-page-thumbnails-shop-layout-1.html">Layout 1</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-shop-layout-2.html">Layout 2</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-shop-layout-3.html">Layout 3</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-shop-layout-4.html">layout 4</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-shop-layout-5.html">Layout 5</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-shop-layout-6.html">Layout 6</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-shop-horizontal.html">Horizontal</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="category-page-thumbnails-coupon-layout-1.html">Coupon</a>
+                                                    <ul>
+                                                        <li><a href="category-page-thumbnails-coupon-layout-1.html">Layout 1</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-coupon-layout-2.html">Layout 2</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-coupon-layout-3.html">Layout 3</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-coupon-layout-4.html">Layout 4</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-coupon-layout-5.html">Layout 5</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-coupon-layout-6.html">Layout 6</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-coupon-layout-7.html">Layout 7</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-coupon-layout-8.html">Layout 8</a>
+                                                        </li>
+                                                        <li><a href="category-page-thumbnails-coupon-horizontal.html">Horizontal</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="category-page-thumbnails-breadcrumbs.html">Breadcrumbs</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="product-shop-sidebar.html">Historico</a>
+                                    <ul>
+                                        <li><a href="product-shop-sidebar.html">Shop</a>
+                                            <ul>
+                                                <li><a href="product-shop-sidebar.html">Sidebar</a>
+                                                </li>
+                                                <li><a href="product-shop-sidebar-left.html">Sidebar Left</a>
+                                                </li>
+                                                <li><a href="product-shop-centered.html">Centered</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="product-coupon-default.html">Coupon</a>
+                                            <ul>
+                                                <li><a href="product-coupon-default.html">Default</a>
+                                                </li>
+                                                <li><a href="product-coupon-meta-right.html">Meta right</a>
+                                                </li>
+                                                <li><a href="product-coupon-gallery.html">Gallery</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="features-typography.html">Chat</a>
+                                    <ul>
+                                        <li><a href="features-typography.html">Typography</a>
+                                        </li>
+                                        <li><a href="features-elements.html">Elements</a>
+                                        </li>
+                                        <li><a href="features-grid.html">Grid</a>
+                                        </li>
+                                        <li><a href="features-icons.html">Icons</a>
+                                        </li>
+                                        <li><a href="features-image-hover.html">Image Hovers</a>
+                                        </li>
+                                        <li><a href="features-sliders.html">Sliders</a>
+                                        </li>
+                                        <li><a href="features-media.html">Media</a>
+                                        </li>
+                                        <li><a href="features-lightbox.html">Lightbox</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="blog-sidebar-right.html">Sobre</a>
+                                    <ul>
+                                        <li><a href="blog-sidebar-right.html">Sidebar Right</a>
+                                        </li>
+                                        <li><a href="blog-sidebar-left.html">Sidebar Left</a>
+                                        </li>
+                                        <li><a href="blog-full-width.html">Full Width</a>
+                                        </li>
+                                        <li><a href="post-sidebar-right.html">Post</a>
+                                            <ul>
+                                                <li><a href="post-sidebar-right.html">Sidebar Right</a>
+                                                </li>
+                                                <li><a href="post-sidebar-left.html">Sidebar Left</a>
+                                                </li>
+                                                <li><a href="post-full-width.html">Full Width</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pull-right">
+                            <ul class="login-register">
+                                <li class="shopping-cart"><a href="page-cart.html"><i class="fa fa-shopping-cart"></i>My Cart</a>
+                                    <div class="shopping-cart-box">
+                                        <ul class="shopping-cart-items">
+                                            <li>
+                                                <a href="product-shop-sidebar.html">
+                                                    <img src="img/70x70.png" alt="Image Alternative text" title="AMaze" />
+                                                    <h5>New Glass Collection</h5><span class="shopping-cart-item-price">$150</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="product-shop-sidebar.html">
+                                                    <img src="img/70x70.png" alt="Image Alternative text" title="Gamer Chick" />
+                                                    <h5>Playstation Accessories</h5><span class="shopping-cart-item-price">$170</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <ul class="list-inline text-center">
+                                            <li><a href="page-cart.html"><i class="fa fa-shopping-cart"></i> View Cart</a>
+                                            </li>
+                                            <li><a href="page-checkout.html"><i class="fa fa-check-square"></i> Checkout</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li><a href="page-my-account-settings.html"><i class="fa fa-user"></i>Hi, John</a>
+                                </li>
+                                <li><a href="index.html"><i class="fa fa-sign-out"></i>Log Out</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- LOGIN REGISTER LINKS CONTENT -->
+        <div id="login-dialog" class="mfp-with-anim mfp-hide mfp-dialog clearfix">
+            <i class="fa fa-sign-in dialog-icon"></i>
+            <h3>Member Login</h3>
+            <h5>Welcome back, friend. Login to get started</h5>
+            <form class="dialog-form">
+                <div class="form-group">
+                    <label>E-mail</label>
+                    <input type="text" placeholder="email@domain.com" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Password</label>
+                    <input type="password" placeholder="My secret password" class="form-control">
+                </div>
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox">Remember me
+                    </label>
+                </div>
+                <input type="submit" value="Sign in" class="btn btn-primary">
+            </form>
+            <ul class="dialog-alt-links">
+                <li><a class="popup-text" href="#register-dialog" data-effect="mfp-zoom-out">Not member yet</a>
+                </li>
+                <li><a class="popup-text" href="#password-recover-dialog" data-effect="mfp-zoom-out">Forgot password</a>
+                </li>
+            </ul>
+        </div>
+
+
+        <div id="register-dialog" class="mfp-with-anim mfp-hide mfp-dialog clearfix">
+            <i class="fa fa-edit dialog-icon"></i>
+            <h3>Member Register</h3>
+            <h5>Ready to get best offers? Let's get started!</h5>
+            <form class="dialog-form">
+                <div class="form-group">
+                    <label>E-mail</label>
+                    <input type="text" placeholder="email@domain.com" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Password</label>
+                    <input type="password" placeholder="My secret password" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Repeat Password</label>
+                    <input type="password" placeholder="Type your password again" class="form-control">
+                </div>
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="form-group">
+                            <label>Your Area</label>
+                            <input type="password" placeholder="Boston" class="form-control">
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label>Postal/Zip</label>
+                            <input type="password" placeholder="12345" class="form-control">
+                        </div>
+                    </div>
+                </div>
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox">Get hot offers via e-mail
+                    </label>
+                </div>
+                <input type="submit" value="Sign up" class="btn btn-primary">
+            </form>
+            <ul class="dialog-alt-links">
+                <li><a class="popup-text" href="#login-dialog" data-effect="mfp-zoom-out">Already member</a>
+                </li>
+            </ul>
+        </div>
+
+
+        <div id="password-recover-dialog" class="mfp-with-anim mfp-hide mfp-dialog clearfix">
+            <i class="icon-retweet dialog-icon"></i>
+            <h3>Password Recovery</h3>
+            <h5>Fortgot your password? Don't worry we can deal with it</h5>
+            <form class="dialog-form">
+                <label>E-mail</label>
+                <input type="text" placeholder="email@domain.com" class="span12">
+                <input type="submit" value="Request new password" class="btn btn-primary">
+            </form>
+        </div>
+        <!-- END LOGIN REGISTER LINKS CONTENT -->
+
+
+        <!-- TOP AREA -->
+            
+            <!-- END BOOTSTRAP CAROUSEL -->
+                       
+                        
+                        <div class="top-main-area text-center">
+                        <h3>XABLAUUUUUUUU!</h3>
+                        <div class="container">
+                        <div class="owl-carousel" id="owl-carousel" data-items="3">
+                         
+                         <!-- CAROUSEL DO XABLAU PRINCIPAL-->
+                            <asp:Repeater runat="server" ID="listRepeater">
+					        <ItemTemplate>
+
+                            <div>
+                                <div class="product-thumb">
+                                    <header class="product-header">
+                                        <img src="img/800x600.png" alt="Image Alternative text" title="Gamer Chick" />
+                                    </header>
+                                    <div class="product-inner">
+                                        <h5 class="product-title"><%#Eval("Nome") %></h5>
+                                        <p class="product-desciption"><%#Eval("Descricao") %></p>
+                                        <ul class="product-actions-list">
+                                            <li><a class="btn btn-sm" href="#"><i class="fa fa-thumbs-o-up"></i> Tô afim!</a>
+                                            </li>
+                                            <li><a class="btn btn-sm" href="#"><i class="fa fa-thumbs-o-down"></i> Tô fora!</a>
+                                            </li>
+                                            <li><a class="btn btn-sm"><i class="fa fa-bars"></i> Detalhes</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            </ItemTemplate>
+				            </asp:Repeater>
+
+                          <!-- CAROUSEL DO XABLAU PRINCIPAL-->
+
+                        </div>
+                        </div>
+                        </div>
+        <!-- END TOP AREA -->
+
+        <!-- SEARCH AREA -->
+        <form class="search-area form-group">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 clearfix">
+                        
+                    </div>
+                </div>
+            </div>
+        </form>
+        <!-- END SEARCH AREA -->
+
+        <div class="gap"></div>
+
+        <!-- TEXTO -->
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <div class="text-center">
+                        <h1>Explore Best Deals in Your City</h1>
+                        <p class="text-bigger">Cum donec tincidunt rutrum aptent venenatis nunc nullam mus eget massa neque nulla netus elit vulputate potenti cubilia arcu potenti scelerisque maecenas per augue hac posuere euismod ut habitant interdum</p>
+                    </div>
+                </div>
+            </div>
+            <div class="gap"></div>
+        </div>
+
+        <!-- END TEXTO -->
+
+        <!-- SEUS XABLAUS -->
+
+        <div class="gap gap-small"></div>
+            <h1 class="mb20 text-center">Seus Xablaisss! <small></h1>
+            <div class="row row-wrap">
+            
+            <!-- TODOS OS SEUS XABLAUS -->
+                       
+              <div class="col-md-3">
+                    <div class="product-thumb">
+                        <header class="product-header">
+                            <img src="img/800x600.png" alt="Image Alternative text" title="The Hidden Power of the Heart" />
+                        </header>
+                        <div class="product-inner">
+                            <h5 class="product-title">Beach Holidays</h5>
+                            <p class="product-desciption">Auctor netus lacinia dignissim dictum sodales tempus proin</p>
+                            <div class="product-meta">
+                                <ul class="product-actions-list">
+                                    <li><a class="btn btn-sm" href="#"><i class="fa fa-thumbs-o-up"></i> Tô afim!</a></li>
+                                    <li><a class="btn btn-sm" href="#"><i class="fa fa-thumbs-o-down"></i> Tô fora!</a></li>
+                                    <li><a class="btn btn-sm"><i class="fa fa-bars"></i> Detalhes</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+            
+                <!-- END TODOS OS SEUS XABLAUS -->
+
+            </div>
+            <div class="gap"></div>
+
+            <!-- END SEUS XABLAUS -->
+
+
+            <!-- INTERESSADOS EM SEUS PRODUTOS -->
+
+        <div class="gap gap-small"></div>
+            <h1 class="mb20 text-center">Interessados em seu produto <small></small></h1>
+            <div class="row row-wrap">
+               
+
+               <!--  TODOS OS INTERESSADOS -->
+                 <div class="col-md-3">
+                    <div class="product-thumb">
+                        <header class="product-header">
+                            <img src="img/800x600.png" alt="Image Alternative text" title="The Hidden Power of the Heart" />
+                        </header>
+                        <div class="product-inner">
+                            <h5 class="product-title">Beach Holidays</h5>
+                            <p class="product-desciption">Auctor netus lacinia dignissim dictum sodales tempus proin</p>
+                            <div class="product-meta">
+                                <ul class="product-actions-list">
+                                    <li><a class="btn btn-sm" href="#"><i class="fa fa-thumbs-o-up"></i> Tô afim!</a></li>
+                                    <li><a class="btn btn-sm"><i class="fa fa-bars"></i> Detalhes</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+                <!--  TODOS OS INTERESSADOS -->
+
+            </div>
+            <div class="gap"></div>
+
+            <!-- END INTERESSADOS EM SEUS PRODUTOS -->
+
+
+
+
+        <!-- //////////////////////////////////
+	//////////////END MAIN HEADER////////// 
+	////////////////////////////////////-->
+
+
+        <!-- //////////////////////////////////
+	//////////////PAGE CONTENT///////////// 
+	////////////////////////////////////-->
+
+
+
+        <!-- //////////////////////////////////
+	//////////////END PAGE CONTENT///////// 
+	////////////////////////////////////-->
+
+
+
+        <!-- //////////////////////////////////
+	//////////////MAIN FOOTER////////////// 
+	////////////////////////////////////-->
+
+        <footer class="main">
+            <div class="footer-top-area">
+                <div class="container">
+                    <div class="row row-wrap">
+                        <div class="col-md-3">
+                            <a href="index.html">
+                                <img src="img/logo.png" alt="logo" title="logo" class="logo">
+                            </a>
+                            <ul class="list list-social">
+                                <li>
+                                    <a class="fa fa-facebook box-icon" href="#" data-toggle="tooltip" title="Facebook"></a>
+                                </li>
+                                <li>
+                                    <a class="fa fa-twitter box-icon" href="#" data-toggle="tooltip" title="Twitter"></a>
+                                </li>
+                                <li>
+                                    <a class="fa fa-flickr box-icon" href="#" data-toggle="tooltip" title="Flickr"></a>
+                                </li>
+                                <li>
+                                    <a class="fa fa-linkedin box-icon" href="#" data-toggle="tooltip" title="LinkedIn"></a>
+                                </li>
+                                <li>
+                                    <a class="fa fa-tumblr box-icon" href="#" data-toggle="tooltip" title="Tumblr"></a>
+                                </li>
+                            </ul>
+                            <p>Orci nulla elit pharetra vehicula volutpat ad commodo ultricies iaculis conubia rutrum sagittis nunc morbi felis eros class quam sapien</p>
+                        </div>
+                        <div class="col-md-3">
+                            <h4>Sign Up to the Newsletter</h4>
+                            <div class="box">
+                                <form>
+                                    <div class="form-group mb10">
+                                        <label>E-mail</label>
+                                        <input type="text" class="form-control" />
+                                    </div>
+                                    <p class="mb10">Posuere nam tellus primis varius leo libero</p>
+                                    <input type="submit" class="btn btn-primary" value="Sign Up" />
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <h4>Couponia on Twitter</h4>
+                            <!-- START TWITTER -->
+                            <div class="twitter-ticker" id="twitter-ticker"></div>
+                            <!-- END TWITTER -->
+                        </div>
+                        <div class="col-md-3">
+                            <h4>Recent News</h4>
+                            <ul class="thumb-list">
+                                <li>
+                                    <a href="#">
+                                        <img src="img/70x70.png" alt="Image Alternative text" title="Urbex Esch/Lux with Laney and Laaaaag" />
+                                    </a>
+                                    <div class="thumb-list-item-caption">
+                                        <p class="thumb-list-item-meta">Jul 18, 2014</p>
+                                        <h5 class="thumb-list-item-title"><a href="#">Class praesent</a></h5>
+                                        <p class="thumb-list-item-desciption">Bibendum adipiscing pulvinar mollis laoreet</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="img/70x70.png" alt="Image Alternative text" title="AMaze" />
+                                    </a>
+                                    <div class="thumb-list-item-caption">
+                                        <p class="thumb-list-item-meta">Jul 18, 2014</p>
+                                        <h5 class="thumb-list-item-title"><a href="#">Pretium cubilia</a></h5>
+                                        <p class="thumb-list-item-desciption">Purus curae elementum torquent arcu</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="img/70x70.png" alt="Image Alternative text" title="The Hidden Power of the Heart" />
+                                    </a>
+                                    <div class="thumb-list-item-caption">
+                                        <p class="thumb-list-item-meta">Jul 18, 2014</p>
+                                        <h5 class="thumb-list-item-title"><a href="#">Nibh aliquet</a></h5>
+                                        <p class="thumb-list-item-desciption">Blandit porttitor nec augue fermentum</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-copyright">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <p>Copyright © 2014, Your Store, All Rights Reserved</p>
+                        </div>
+                        <div class="col-md-6 col-md-offset-2">
+                            <div class="pull-right">
+                                <ul class="list-inline list-payment">
+                                    <li>
+                                        <img src="img/payment/american-express-curved-32px.png" alt="Image Alternative text" title="Image Title" />
+                                    </li>
+                                    <li>
+                                        <img src="img/payment/cirrus-curved-32px.png" alt="Image Alternative text" title="Image Title" />
+                                    </li>
+                                    <li>
+                                        <img src="img/payment/discover-curved-32px.png" alt="Image Alternative text" title="Image Title" />
+                                    </li>
+                                    <li>
+                                        <img src="img/payment/ebay-curved-32px.png" alt="Image Alternative text" title="Image Title" />
+                                    </li>
+                                    <li>
+                                        <img src="img/payment/maestro-curved-32px.png" alt="Image Alternative text" title="Image Title" />
+                                    </li>
+                                    <li>
+                                        <img src="img/payment/mastercard-curved-32px.png" alt="Image Alternative text" title="Image Title" />
+                                    </li>
+                                    <li>
+                                        <img src="img/payment/visa-curved-32px.png" alt="Image Alternative text" title="Image Title" />
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- //////////////////////////////////
+	//////////////END MAIN  FOOTER///////// 
+	////////////////////////////////////-->
+
+
+
+        <!-- Scripts queries -->
+        <script src="js/jquery.js"></script>
+        <script src="js/boostrap.min.js"></script>
+        <script src="js/countdown.min.js"></script>
+        <script src="js/flexnav.min.js"></script>
+        <script src="js/magnific.js"></script>
+        <script src="js/tweet.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+        <script src="js/fitvids.min.js"></script>
+        <script src="js/mail.min.js"></script>
+        <script src="js/ionrangeslider.js"></script>
+        <script src="js/icheck.js"></script>
+        <script src="js/fotorama.js"></script>
+        <script src="js/card-payment.js"></script>
+        <script src="js/owl-carousel.js"></script>
+        <script src="js/masonry.js"></script>
+        <script src="js/nicescroll.js"></script>
+
+        <!-- Custom scripts -->
+        <script src="js/custom.js"></script>
+
+    </div>
+
+    </div>
+    </form>
+</body>
+</html>
